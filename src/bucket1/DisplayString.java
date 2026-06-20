@@ -1,3 +1,5 @@
+package bucket1;
+
 import java.util.*;
 public class DisplayString {
     public void display(String a){
